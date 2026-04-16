@@ -54,7 +54,7 @@
 - **Backend**:         Gin, GORM
 - **Hardware/IoT**:    Raspberry Pi Pico, MQTT
 
-<p align="left" display="flex"> 
+<!-- Skill Icons -->
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
@@ -97,7 +97,7 @@
   <a href="https://alpinejs.dev" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/59030169?s=200&v=4" alt="alpinejs" width="40" height="40"/>
   </a>
-</p>
+
 
 ## Contact
 - **Discord**:        [yunima](https://discord.com/users/242253119998787585)
