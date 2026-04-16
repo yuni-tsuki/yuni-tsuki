@@ -29,7 +29,7 @@
 | **Work** | Freelance IoT Engineer, Indie Hacker |
 | **Community** | Community Manager, Unofficial OUJ Online Community (270+ members) |
 | **Interests** | A11y, Inclusive Tech, User-Centric Design, Peer Support for Distance Learning Students |
-| **Articles (Japanese)** | [note](https://note.com/yuni_yuni_yuni), [Qiita](https://qiita.com/yunimaru) |
+| **Articles (JP)** | [Autoethnographic Essays (note.com)](https://note.com/yuni_yuni_yuni), [Engineering articles (qiita.com)](https://qiita.com/yunimaru) |
 
 ## Education
 - **School**:         The Open University of Japan
