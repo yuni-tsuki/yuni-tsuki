@@ -34,7 +34,7 @@
 ## Education
 - **School**:         The Open University of Japan
 - **Major**:          Psychology and Education (Liberal Arts)
-- **Research Focus**: Autoethnographic inquiry into the lived experiences of young adult distance learners
+- **Research Focus**: An insider-led quantitative inquiry into the educational trajectories and psychosocial factors of non-traditional students in ODL
 
 ## Experiences
 - **Community Manager**
